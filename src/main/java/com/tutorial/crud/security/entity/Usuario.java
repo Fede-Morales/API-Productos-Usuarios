@@ -10,7 +10,6 @@ import javax.persistence.*;
 
 import lombok.*;
 
-
 @Entity
 @Table(name = "usuario")
 @Getter
